@@ -2,10 +2,9 @@
 ## Hi my name is Gabriel👋🏽
 
 I am currently studying
-
 JavaScript, C++ and Python
 
--intermediate/advanced English 
+-intermediate English 
 
 I started studying programming about 7 months ago and I'm trying to change my field. 
 Below is some more information about me
