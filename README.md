@@ -6,8 +6,9 @@ JavaScript, C++ and Python
 
 -intermediate English 
 
-I started studying programming about 7 months ago and I'm trying to change my field. 
-Below is some more information about me
+I started studying programming about 7 months ago and would like to start in the field.
+
+below is some more information about me.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-soares007)
   <a href = "mailto:gabrielsoaresdasilvajob@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
